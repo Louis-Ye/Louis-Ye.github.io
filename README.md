@@ -6,7 +6,7 @@ This is a personal website for Louis.
 
 Themed by [Pixyll](https://github.com/johnotander/pixyll)
 
-Powered by [Jekyll](<a href="https://jekyllrb.com/">)
+Powered by [Jekyll](https://jekyllrb.com/")
 
 # LICENSE
 
