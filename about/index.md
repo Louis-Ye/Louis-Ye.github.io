@@ -8,23 +8,6 @@ tags: About Me
   <img width="25%" src="http:{{ baseurl }}/images/{{ site.headpic }}" />
 </div>
 
-<p>
-    I am <b><i>Louis Ye</i></b>, who is passionate about cutting edge technology in <b>Computer Science</b>, especially on <b>Computer Systems</b> and <b>Software Engineering</b>.
-</p>
-
-<p>
-    My career goal is to become a software engineer equipped with research vision.
-</p>
-
-<p>
-    Currently, I am a Master of Applied Science student in <b>Electrical and Computer Engineering</b> department of UBC (University of British Columbia, Vancouver, BC, Canada). At the same time, I am a research assistant in <b>Computer Systems Lab</b> in UBC.
-</p>
-
-<p>
-    Previously, I received my bachelor degrees in <b>Computer Science</b> from Dual-Degree Program of Simon Fraser University (Burnaby, BC, Canada) and Zhejiang University (Hangzhou, Zhejiang, China).
-</p>
-
-
 ### Languages:
 * Chinese Mandarin, English
 
@@ -38,3 +21,11 @@ tags: About Me
 ### Certificates (Coursera)
 * Cloud Computing, Heterogeneous Parallel Programming, Machine Learning, Cryptography
 
+### Awards and honors
+* Applied Science Graduate Award, University of British Columbia 2017
+* Graduated with Distinction, Simon Fraser University, 2016
+* President’s and Dean’s Honor Roll, Simon Fraser University, 2015
+* Undergraduate Open Scholarship, Simon Fraser University, 2015
+* College Entrance Scholarship, Simon Fraser University, 2013
+* National Scholarship, Zhejiang University, 2012
+* First Class Prize of Physics Competition in Province for Junior High School, Nanning No.3 Middle School, Guangxi, China, 2010
