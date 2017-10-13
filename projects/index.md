@@ -33,7 +33,7 @@ tags: Projects
 
 
 ### Crash-recoverable Distributed File System
-##### Simon Fraser University, Jan 2015 – May 2015
+##### Simon Fraser University, Jan-May 2015
 * Built a C++ written file system with replicas to ensure high availability in the scenario of node’s crash, and a write-ahead-logging mechanism to ensure the correctness of random failure recovery.
 
 
