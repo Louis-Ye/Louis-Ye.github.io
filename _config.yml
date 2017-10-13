@@ -9,10 +9,10 @@ url:         "http://louisye.me"
 date_format: "%b %-d, %Y"
 headpic: "louisye_rounded_sm.png"
 header_pages:
-  About Me: "about"
   Experience: "experience"
   Projects: "projects"
-  Contact Me: "contact"
+  About Me: "about"
+  Contact: "contact"
 
 # Google services
 google_verification:
