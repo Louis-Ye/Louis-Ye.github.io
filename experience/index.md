@@ -34,9 +34,19 @@ tags: Experience
 ##### Multicore Systems and Parallel Computing Lab, Simon Fraser University, Burnaby, BC, Jan - Aug, 2015
 * Built special data structures and a task-stealing scheduler for a lock-free programming framework to efficiently solve synchronization problems that caused by holding many locks in multi-threaded programs.
 
-
 <hr>
 
-## Extracurricular
+## Others
 
+### Teaching Assistant of Operating Systems (CPEN 331)
+##### University of British Columbia Sep - Dec 2017
+
+### Group leader of research trip to information technology companies
+##### Tencent (Shenzhen, China) & Huawei (Hangzhou, China), Jul 2013 – Aug 2014
+* Presented research on operational and technical details of Tencent and Huawei.
+* Received the second prize in Summer Research Trip Program of Zhejiang University.
+
+### Student Leader of Dual Degree Program (DDP) of ZJU and SFU
+##### Zhejiang University & Simon Fraser University, Aug 2011 - May 2016
+* Organized activities for international students in the program.
 
