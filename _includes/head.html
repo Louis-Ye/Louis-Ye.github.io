@@ -1,14 +1,27 @@
 <head>
-    {% if site.google_analytics %}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    {% if site.google_analytics_enabled %}
+    <!-- Global site tag (gtag.js) - Google Analytics http://louisye.me -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108054144-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', '{{ site.google_analytics }}');
+      gtag('config', 'UA-108054144-1');
+      console.log("yoyoyo, UA-108054144-1");
     </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics https://Louis-Ye.github.io -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108054144-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-108054144-2');
+      console.log("yoyoyo, UA-108054144-2");
+    </script>
+
     <!-- End Google Analytics -->
     {% endif %}
 
