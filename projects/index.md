@@ -71,7 +71,7 @@ tags: Projects
 * The app helps students navigate through Zhejiang university and keeps up with the latest campus events. 
 
 
-### CuTe Crazy Stone
+### CuTe Crazy Stone - a 2D team play strategy game
 ##### Sep 2012 – Jan 2013
-* Collaboratively built a 2D team play strategy game with C++, the physical engine Box2D and the graphic library QT.
+* Collaboratively built the game with C++, the physical engine Box2D, and the graphic library QT.
 
