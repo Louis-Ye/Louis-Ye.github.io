@@ -39,7 +39,7 @@ tags: Experience
 ## Others
 
 ### Teaching Assistant of Operating Systems (CPEN 331)
-##### University of British Columbia Sep - Dec 2017
+##### University of British Columbia, Sep-Dec 2017
 
 ### Group leader of research trip to information technology companies
 ##### Tencent (Shenzhen, China) & Huawei (Hangzhou, China), Jul 2013 – Aug 2014
