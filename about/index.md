@@ -22,7 +22,7 @@ tags: About Me
 * Cloud Computing, Heterogeneous Parallel Programming, Machine Learning, Cryptography
 
 ### Awards and honors
-* Applied Science Graduate Award, University of British Columbia 2017
+* Applied Science Graduate Award, University of British Columbia, 2017
 * Graduated with Distinction, Simon Fraser University, 2016
 * President’s and Dean’s Honor Roll, Simon Fraser University, 2015
 * Undergraduate Open Scholarship, Simon Fraser University, 2015
