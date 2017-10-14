@@ -7,7 +7,7 @@ tags: Projects
 
 ### DINAMITE – A Dynamic Tracing Tool Using LLVM
 ##### University of British Columbia, Sep 2016 – May 2017
-* Extended LLVM, a compiler frontend written in C++, to instrument functions and memory accesses.
+* Workd on an extended LLVM pass, a compiler frontend written in C++, to instrument functions and memory accesses.
 * Made use of distributed IDs generation and dynamic programming to accelerate compilation of instrumented programs.
 
 
