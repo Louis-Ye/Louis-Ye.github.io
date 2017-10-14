@@ -12,17 +12,17 @@ tags: Projects
 
 
 ### OS161 kernel – An OS kernel running on MIPS architecture 
-##### University of British Columbia, Jan 2017 – May 2017
+##### University of British Columbia, Jan-May 2017
 * Hacked OS161, a real OS kernel written in C, to implement virtual memory system, processes management system, and file IO system calls, which consist of memory core map, page tables, TLB management, PIDs management, etc.
 
 
 ### Fontify – A tool for converting handwriting picture into digital font 
-##### Hackathon nwHacks, Feb, 2016
+##### Hackathon nwHacks, Feb 2016
 * Collaboratively built a full-stack web-server app with Flask, a Python backend framework, in 24 hours. The app pipelines processes of user interaction, image distortion, and scalable vector graphics conversion to generate the digital font.
 
 
 ### Analysis of relationships between power efficiency and CPU/GPU frequencies
-##### University of British Columbia, Sep 2016 – Dec 2016
+##### University of British Columbia, Sep–Dec 2016
 * Designed and implemented empirical experiments to analyze the influence of processors frequency to power efficiency on Jetson TK1 & TX1 platforms (system-on-a-chip architecture).
 * Implemented the workload with CUDA to process irregular applications (graph algorithms).
 
@@ -51,7 +51,7 @@ tags: Projects
 
 
 ### Express LOGO
-##### Simon Fraser University, Mar 2014 – Apr 2014
+##### Simon Fraser University, Jan–Apr 2014
 * LOGO programming language website. Providing online LOGO interpreter, tutorial, documentation.
 * Developed with Angular.js, Express JS, Bootstrap. Using JavaScript, HTML5.
 * Implemented a LOGO translator with pure JavaScript
@@ -65,7 +65,7 @@ tags: Projects
 
 
 ### Zhe Nar Navigation App
-##### Zhejiang University, May 2013 – Jun 2013
+##### Zhejiang University, Mar–Jun 2013
 * Collaboratively Built a campus navigation app with Objective-C and Python(Django).
 * The app runs on both iOS and web platforms.
 * The app helps students navigate through Zhejiang university and keeps up with the latest campus events. 
