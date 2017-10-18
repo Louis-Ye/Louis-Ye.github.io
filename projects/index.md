@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 tags: Projects
 ---
+<hr>
 
 <h3> <a href="https://dinamite-toolkit.github.io/">DINAMITE – A Dynamic Tracing Tool Using LLVM</a></h3>
 <h5>University of British Columbia <p class="right-align"> Sep 2016 – May 2017</p></h5>
@@ -86,3 +87,4 @@ tags: Projects
 <h5> Zhejiang University <p class="right-align"><i>(Private Repo)</i> Sep 2012 – Jan 2013</p></h5>
 * Collaboratively built the game with C++, the physical engine Box2D, and the graphic library QT.
 
+<hr>
