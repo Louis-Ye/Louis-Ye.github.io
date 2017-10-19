@@ -4,6 +4,14 @@ title: Projects
 permalink: /projects/
 tags: Projects
 ---
+
+<hr>
+
+### Emulator of Disaggregated Data Center (DDC)
+<h5> University of British Columbia <p class="right-align"><i>(Private Repo)</i> Sep - Dec 2017</p></h5>
+* Collaboratively building a distributed system that simulates DDC network environment on normal clusters.
+* Hacking the OS network stack to minimize the CPU-to-remote-memory latency.
+
 <hr>
 
 <h3> <a href="https://dinamite-toolkit.github.io/">DINAMITE – A Dynamic Tracing Tool Using LLVM</a></h3>
