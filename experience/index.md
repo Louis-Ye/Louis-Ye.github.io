@@ -17,7 +17,7 @@ tags: Experience
 <hr>
 
 ### Software Developer Intern, Demonware (subsidiary of Activision Blizzard)
-<h5> Vancouver, BC <p class="right-align">Sep-Dec 2015</p> </h5>
+<h5> Vancouver, BC <p class="right-align">Sep - Dec 2015</p> </h5>
 * Proposed & implemented a distributed cache framework (investigated the existing architecture, wrote a technical design, defensed it against 10+ full-time developers from all levels, implemented it) for a multi-player game service (mostly written in Python). The framework can reflect the latest value immediately after write requests while providing great performance for a large number of read requests (millions of requests per second).
 * Designed and implemented a pseudo multi-threaded automation script for analyzing errors in distributed server logs.
 * Discovered and fixed database ACID violations bugs in backend RESTful APIs.
@@ -25,13 +25,13 @@ tags: Experience
 <hr>
 
 ### Research Assistant, Multicore Systems and Parallel Computing Lab
-<h5>Simon Fraser University, Burnaby, BC <p class="right-align">Jan-Aug 2015</p></h5>
+<h5>Simon Fraser University, Burnaby, BC <p class="right-align">Jan - Aug 2015</p></h5>
 * Built special data structures and a task-stealing scheduler for a lock-free programming framework to efficiently solve synchronization problems that caused by holding many locks in multi-threaded programs.
 
 <hr>
 
 ### Software Developer Intern, BlackBerry
-<h5>Mississauga, ON  <p class="right-align">May-Aug 2014</p> </h5>
+<h5>Mississauga, ON  <p class="right-align">May - Aug 2014</p> </h5>
 * Designed and developed automation scripting tools for software development and branches integration.
 * Implemented features of IP Multimedia Subsystem, written in C++, in BlackBerry OS 10.
 
@@ -42,8 +42,8 @@ tags: Experience
 <hr>
 
 ### Teaching Assistant of Operating Systems Course (CPEN 331)
-<h5> University of British Columbia  <p class="right-align">Sep-Dec 2017</p> </h5>
-* -
+<h5> University of British Columbia  <p class="right-align">Sep - Dec 2017</p> </h5>
+* Assisting students to hack an OS kernel written in C, which is runnable on MIPS architecture
 
 <hr>
 
