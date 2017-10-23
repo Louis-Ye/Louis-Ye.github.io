@@ -13,13 +13,13 @@ tags: About Me
 
 ### Programming* Languages:
 * Proficient: C, C++, Python
-* Familiar: Java, Objective-C, JavaScript, Matlab, Pearl, Shell, Ruby, SQL, Verilog, (MIPS, X86) Assembly
+* Familiar: Java, Rust, Objective-C, JavaScript, Matlab, Pearl, Shell, Ruby, SQL, Verilog, (MIPS, X86) Assembly
 
 ### Frameworks and Tools
 * Git, LLVM, Linux Kernel, Perf, DTrace, CUDA, Django, Rails, Node.js, MySQL, MongoDB
 
 ### Certificates (Coursera)
-* Cloud Computing, Heterogeneous Parallel Programming, Machine Learning, Cryptography
+* Distributed Systems, Heterogeneous Parallel Programming, Machine Learning, Cryptography
 
 ### Awards and honors
 * Applied Science Graduate Award, University of British Columbia, 2017
