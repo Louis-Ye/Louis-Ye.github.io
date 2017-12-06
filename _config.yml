@@ -9,8 +9,6 @@ url:         "http://louisye.me"
 date_format: "%b %-d, %Y"
 headpic: "louisye_rounded_sm.png"
 header_pages:
-  Experience: "experience"
-  Projects: "projects"
   About Me: "about"
   Contact: "contact"
 
