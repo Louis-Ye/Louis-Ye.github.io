@@ -1,5 +1,10 @@
 
 {% for link in site.header_pages %}
-    <a href="{{ site.baseurl }}/{{ link[1] }}">{{ link[0] }}</a>
+    {% assign link0size = link[0].size %}
+    {% if link0size < 5 %}
+        <a href="{{ site.baseurl }}/{{ link[1] }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ link[0] }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    {% else %}
+        <a href="{{ site.baseurl }}/{{ link[1] }}">{{ link[0] }} </a>
+    {% endif %}
 {% endfor %}
 
