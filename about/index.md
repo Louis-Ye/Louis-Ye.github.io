@@ -7,25 +7,10 @@ tags: About Me
 <div class="col-3">
   <img width="25%" src="http:{{ baseurl }}/images/{{ site.headpic }}" />
 </div>
+<a href="#Basics">Basics</a> &nbsp;&nbsp;&nbsp;
+<a href="#Experience">Experience</a> &nbsp;&nbsp;&nbsp;
+<a href="#Projects">Projects</a>
 
-<div>
-  <p><b>Contents</b></p>
-  <ul>
-    <!--   
-      <li><a href="#First_Point_Header">1 First Point Header</a>
-        <ul>
-          <li><a href="#First_Sub_Point_1">1.1 First Sub Point 1</a></li>
-          <li><a href="#First_Sub_Point_2">1.2 First Sub Point 2</a></li>
-        </ul>
-      </li>
-    -->
-    <li><a href="#Basics">Basics</a></li>
-    <li><a href="#Experience">Experience</a></li>
-    <li><a href="#Projects">Projects</a></li>
-  </ul>
-</div>
-
-<hr>
 <h2 id="Basics">Basics</h2>
 
 ### Educations:
@@ -55,13 +40,9 @@ tags: About Me
 * National Scholarship, Zhejiang University, 2012
 * First Class Prize of Physics Competition in Province for Junior High School, Nanning No.3 Middle School, Guangxi, China, 2010
 
-<hr>
 <h2 id="Experience">Experience</h2>
 {% include experience.html %}
 
-<hr>
 <h2 id="Projects">Projects</h2>
 {% include projects.html %}
-
-<hr>
 
