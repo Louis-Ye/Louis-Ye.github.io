@@ -15,8 +15,9 @@ tags: About Me
 
 ### Educations:
 * Master of Applied Science / CS, University of British Columbia, 2018
-* Bachelor of Applied Science / CS, Simon Fraser University, 2016
-* Bachelor of Engineering / CS, Zhejiang University 浙江大学, 2016
+* Bachelor of Applied Science / CS / Dual-Degree-Program, Simon Fraser University, 2016
+* 浙江大学 计算机科学双学位项目 工程学学士, 2016届
+* 南宁三中 理科试验班, 2011届
 
 ### Languages:
 * Chinese Mandarin, English
