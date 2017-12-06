@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
-tags: About Me
+title: Resume
+permalink: /resume/
+tags: Resume
 ---
 <div class="col-3">
   <img width="25%" src="http:{{ baseurl }}/images/{{ site.headpic }}" />
@@ -14,8 +14,8 @@ tags: About Me
 <h2 id="Basics">Basics</h2>
 
 ### Educations:
-* Master of Applied Science / CS, University of British Columbia, 2018
-* Bachelor of Applied Science / CS / Dual-Degree-Program, Simon Fraser University, 2016
+* Master of Applied Science / ECE & CS, University of British Columbia, 2018
+* Bachelor of Applied Science / CS / DDP, Simon Fraser University, 2016
 * 浙江大学 计算机科学双学位项目 工程学学士, 2016届
 * 南宁三中 理科试验班, 2011届
 
