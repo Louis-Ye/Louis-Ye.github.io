@@ -14,9 +14,9 @@ tags: About Me
 <h2 id="Basics">Basics</h2>
 
 ### Educations:
-* Master of Applied Science / Computer Stuff, University of British Columbia, 2018
-* Bachelor of Applied Science / Computer Stuff, Simon Fraser University, 2016
-* Bachelor of Engineering / Computer Stuff, Zhejiang University 浙江大学, 2016
+* Master of Applied Science / CS, University of British Columbia, 2018
+* Bachelor of Applied Science / CS, Simon Fraser University, 2016
+* Bachelor of Engineering / CS, Zhejiang University 浙江大学, 2016
 
 ### Languages:
 * Chinese Mandarin, English
