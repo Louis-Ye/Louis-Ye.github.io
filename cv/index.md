@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
-tags: Resume
+title: Curriculum Vitae
+permalink: /cv/
+tags: Curriculum Vitae
 ---
 <div class="col-3">
   <img width="25%" src="http:{{ baseurl }}/images/{{ site.headpic }}" />

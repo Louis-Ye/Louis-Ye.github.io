@@ -9,7 +9,7 @@ url:         "http://louisye.me"
 date_format: "%b %-d, %Y"
 headpic: "louisye_rounded_sm.png"
 header_pages:
-  Resume: "resume"
+  CV: "cv"
   Contact: "contact"
 
 # Google services
