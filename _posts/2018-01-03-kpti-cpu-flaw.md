@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Linux Page Table and Intel CPU Flaw
+title:      Linux Page Table with KPTI patches and Intel CPU Flaw
 date:       2018-01-03
-summary:    A short summary for understanding Linux page table and the Intel CPU flaw
+summary:    A short summary for understanding Linux Page Table with KPTI patches and the Intel CPU flaw
 categories: Operating Systems
 ---
 
