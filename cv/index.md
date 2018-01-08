@@ -41,9 +41,11 @@ tags: Curriculum Vitae
 * National Scholarship, Zhejiang University, 2012
 * First Class Prize of Physics Competition in Province for Junior High School, Nanning No.3 Middle School, Guangxi, China, 2010
 
+<hr>
 <h2 id="Experience">Experience</h2>
 {% include experience.html %}
 
+<hr>
 <h2 id="Projects">Projects</h2>
 {% include projects.html %}
 
