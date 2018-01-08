@@ -14,9 +14,15 @@ categories: Operating Systems
 ### 2. ASLR and KASLR (for 64 bits OS)
 * It turns out that leaking the memory mappings of kernel space is not secure. So ASLR, Address Space Layout Randomization, is introduced, where the mappings of the kernel space in the page table are distributed randomly so that it is unlikely for the attacker to know what is the memory mapping to the kernel address.
 * KASLR is simply the ASLR applied on the kernel at system boot time.
+* It turns out the ASLR and KASLR are not secure enough, there are still several ways for the attacker to guess the kernel memory mappings, it is more like a last-line of defense. But if the CPU and OS can prevent user program from authorized accessing those memory mappings, it is still OK.
 
-### 3. KPTI (previously called KAISER)
-* It turns out even the ASLR is not secure enough, there are several ways to attack it with the current Intel CPU design (for instance, speculatively execute code potentially without performing security checks? details sources: https://www.theregister.co.uk/2018/01/02/intel_cpu_design_flaw/ and https://lwn.net/Articles/738975/) .
+### 3. Speculative Execution (The Cause of Security Issue of Intel CPU)
+* Why it is not OK now?
+* Speculative (or out-of-order) Execution is implemented in lots of modern CPUs (including both AMD's and Intel's models). The idea of this technology is to accelerate the sequential executions by pre-execute some following instructions while executing current one and perform the checks later to see if the results of those pre-executed instructions are needed or not. The issue with this feature is that even if the results of those pre-executed instructions are discarded later after checking, the results are still kept in the CPU cache.
+* It turns that with the speculative execution, the attacker can perform unauthorized access to kernel memory on current Intel's CPU (AMD CPU seems to avoid speculative execution on crucial memory addresses) and read those information into CPU cache. Though the attacker cannot read the information directly from the cache, but by carefully timing the right instruction (instruction reading content from cache is much faster then reading it from RAM), the attacker can still guess the content of the kernel memory.
+
+
+### 4. KPTI (previously called KAISER)
 * So KPTI (Kernel page-table isolation) is introduced. The idea is to split the page table into two copies: one contains both kernel space mapping and userspace mapping, the other contains only user space mapping (with minimum amount of kernel space information). When running in user mode, only the second copy is active. When switching into kernel mode, the first copy will be active.
 * This is expensive, because the context switch between user space and kernel space will have to flush TLB (or PCID). This patches set is reported to introduce a slowdown of 5% to 30% (data is gathered at the current date) for all applications.
 
