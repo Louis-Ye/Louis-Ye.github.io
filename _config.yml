@@ -11,6 +11,7 @@ headpic: "louisye_rounded_sm.png"
 header_pages:
   CV: "cv"
   Contact: "contact"
+  About: "about"
 
 # Google services
 google_verification:
@@ -129,6 +130,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
