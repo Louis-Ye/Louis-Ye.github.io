@@ -11,7 +11,7 @@ headpic: "louisye_rounded_sm.png"
 header_pages:
   CV: "cv"
   Contact: "contact"
-  About: "about"
+  InterestingStuff: "interesting_stuff"
 
 # Google services
 google_verification:
