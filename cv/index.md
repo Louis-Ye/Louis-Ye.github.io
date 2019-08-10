@@ -9,7 +9,8 @@ tags: Curriculum Vitae
 </div>
 <a href="#Basics">Basics</a> &nbsp;&nbsp;&nbsp;
 <a href="#Experience">Experience</a> &nbsp;&nbsp;&nbsp;
-<a href="#Projects">Projects</a>
+<a href="#Project">Project</a>
+<a href="#Publication">Publication</a>
 
 <h2 id="Basics">Basics</h2>
 
