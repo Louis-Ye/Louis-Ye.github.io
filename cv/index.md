@@ -51,6 +51,9 @@ tags: Curriculum Vitae
 {% include experience.html %}
 
 <hr>
-<h2 id="Projects">Projects</h2>
-{% include projects.html %}
+<h2 id="Projects">Project</h2>
+{% include project.html %}
 
+<hr>
+<h2 id="Publication">Publication</h2>
+{% include publication.html %}
