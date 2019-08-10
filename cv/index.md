@@ -9,8 +9,7 @@ tags: Curriculum Vitae
 </div>
 <a href="#Basics">Basics</a> &nbsp;&nbsp;&nbsp;
 <a href="#Experience">Experience</a> &nbsp;&nbsp;&nbsp;
-<a href="#Project">Project</a>
-<a href="#Publication">Publication</a>
+<a href="#Publication">Publication</a> &nbsp;&nbsp;&nbsp;
 
 <h2 id="Basics">Basics</h2>
 
@@ -50,10 +49,6 @@ tags: Curriculum Vitae
 <hr>
 <h2 id="Experience">Experience</h2>
 {% include experience.html %}
-
-<hr>
-<h2 id="Project">Project</h2>
-{% include project.html %}
 
 <hr>
 <h2 id="Publication">Publication</h2>
