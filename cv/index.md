@@ -52,7 +52,7 @@ tags: Curriculum Vitae
 {% include experience.html %}
 
 <hr>
-<h2 id="Projects">Project</h2>
+<h2 id="Project">Project</h2>
 {% include project.html %}
 
 <hr>
