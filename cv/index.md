@@ -13,13 +13,18 @@ tags: Curriculum Vitae
 
 <h2 id="Basics">Basics</h2>
 
-### Educations:
-* Master of Applied Science / ECE & CS, University of British Columbia, Present
+### Occupation 在职:
+* Software Engineer at Google
+
+* 谷歌软件工程师
+
+### Educations 教育:
+* Master of Applied Science / ECE & CS, University of British Columbia, 2019
 * Bachelor of Applied Science / CS / Dual-Degree, Simon Fraser University, 2016
 * Zhejiang University / CS / Dual-Degree, 2016
 * Nanning No.3 Middle School / Science Experimental Class, 2011
 
-* 不列颠哥伦比亚大学 (UBC) / 计算机工程应用科学研究型硕士, 在读
+* 不列颠哥伦比亚大学 (UBC) / 计算机工程应用科学研究型硕士, 2019届
 * 西门菲莎大学 (SFU) / 计算机科学双学位项目应用科学学士, 2016届
 * 浙江大学 / 计算机科学双学位项目工程学学士, 2016届
 * 南宁三中 / 理科试验班, 2011届
