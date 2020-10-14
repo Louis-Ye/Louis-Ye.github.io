@@ -32,15 +32,15 @@ tags: Curriculum Vitae
 ### Languages:
 * Chinese Mandarin, English
 
-### Programming* Languages:
+### Programming Languages:
 * Proficient: C, C++, Python
 * Familiar: C#, Java, Rust, Objective-C, JavaScript, Matlab, Pearl, Shell, Ruby, SQL, Verilog, (MIPS, X86) Assembly
 
-### Frameworks and Tools
+### Technologies
 * Git, LLVM, Linux Kernel, Perf, DTrace, GDB, CUDA, Django, Rails, Node.js, MySQL, MongoDB, ZooKeeper, Redis, Service Fabric, Azure Service Bus
 
-### Certificates (Coursera)
-* Distributed Systems, Heterogeneous Parallel Programming, Machine Learning, Cryptography
+### Certificates
+* (Coursera) Distributed Systems, Heterogeneous Parallel Programming, Machine Learning, Cryptography
 
 ### Awards and Honors
 * Applied Science Graduate Award, University of British Columbia, 2017
