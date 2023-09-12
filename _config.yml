@@ -7,7 +7,7 @@ description: "The Space of Louis Ye 叶绿宇"
 baseurl:     ""
 url:         "http://louisye.me"
 date_format: "%b %-d, %Y"
-headpic: "louisye_rounded_sm.png"
+headpic: "louisye2_rounded_corner.png"
 header_pages:
   CV: "cv"
   Contact: "contact"
