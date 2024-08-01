@@ -5,7 +5,7 @@ permalink: /cv/
 tags: Curriculum Vitae
 ---
 <div class="col-3">
-  <img width="25%" src="http:{{ baseurl }}/images/{{ site.headpic }}" />
+  <img width="25%" src="{{ site.url }}/images/{{ site.headpic }}" />
 </div>
 <a href="#Basics">Basics</a> &nbsp;&nbsp;&nbsp;
 <a href="#Experience">Experience</a> &nbsp;&nbsp;&nbsp;
