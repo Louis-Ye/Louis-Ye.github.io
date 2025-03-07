@@ -29,19 +29,6 @@ tags: Curriculum Vitae
 * 浙江大学 / 计算机科学双学位项目工程学学士, 2016届
 * 南宁三中 / 理科试验班, 2011届
 
-### Languages:
-* Chinese Mandarin, English
-
-### Programming Languages:
-* Proficient: C, C++, Python
-* Familiar: C#, Java, Rust, Objective-C, JavaScript, Matlab, Pearl, Shell, Ruby, SQL, Verilog, (MIPS, X86) Assembly
-
-### Technologies
-* Git, LLVM, Linux Kernel, Perf, DTrace, GDB, CUDA, Django, Rails, Node.js, MySQL, MongoDB, ZooKeeper, Redis, Service Fabric, Azure Service Bus
-
-### Certificates
-* (Coursera) Distributed Systems, Heterogeneous Parallel Programming, Machine Learning, Cryptography
-
 ### Awards and Honors
 * Applied Science Graduate Award, University of British Columbia, 2017
 * Graduated with Distinction, Simon Fraser University, 2016
@@ -50,6 +37,9 @@ tags: Curriculum Vitae
 * College Entrance Scholarship, Simon Fraser University, 2013
 * National Scholarship, Zhejiang University, 2012
 * First Class Prize of Physics Competition in Province for Junior High School, Nanning No.3 Middle School, Guangxi, China, 2010
+
+### Languages:
+* Chinese Mandarin, English
 
 <hr>
 <h2 id="Experience">Experience</h2>
