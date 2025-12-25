@@ -14,9 +14,8 @@ tags: Curriculum Vitae
 <h2 id="Basics">Basics</h2>
 
 ### Occupation 在职:
-* Software Engineer at Google
-
-* 谷歌软件工程师
+* Current Member of Technical Staff at xAI
+* Former SWE at Google
 
 ### Educations 教育:
 * Master of Applied Science / ECE & CS, University of British Columbia, 2019
