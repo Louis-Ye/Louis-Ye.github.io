@@ -14,7 +14,7 @@ tags: Curriculum Vitae
 <h2 id="Basics">Basics</h2>
 
 ### Occupation 在职:
-* Current Member of Technical Staff at xAI
+* Current Member of Technical Staff at SpaceXAI
 * Former SWE at Google
 
 ### Educations 教育:
